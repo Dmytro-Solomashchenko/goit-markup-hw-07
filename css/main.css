@@ -85,7 +85,7 @@ img {
 }
 
 .navigation__link {
-  color: #212121;
+  color: inherit;
   display: block;
   padding: 32px 0;
   text-decoration: none;
